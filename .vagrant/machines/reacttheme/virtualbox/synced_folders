@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/reactTheme":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/reactTheme","hostpath":"/Users/stephenmurphy/Development/web/reactTheme","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/stephenmurphy/Development/web/reactTheme","disabled":false,"__vagrantfile":true}}}
